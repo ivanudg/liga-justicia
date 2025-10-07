@@ -22,9 +22,9 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
   * E2
   * E3
 
-- [] Check 1
-- [] Check 2
-- [] Check 3
+- [X] Check 1
+- [ ] Check 2
+- [ ] Check 3
 
 ![GitHub_Logo](https://th.bing.com/th/id/R.b7ed173fdde9b07d7d78c0059f3ebe54?rik=BkE1nBxvyzccPw&pid=ImgRaw&r=0)
 
